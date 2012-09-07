@@ -7,4 +7,4 @@ hg commit -m "AutoSave"
 hg push --insecure
 hg status
 
-pause
+REM pause
